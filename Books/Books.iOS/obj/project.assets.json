@@ -991,24 +991,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tasni\\.nuget\\packages\\": {},
+    "C:\\Users\\rahal\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tasni\\git\\Books\\Books\\Books.iOS\\Books.iOS.csproj",
+      "projectUniqueName": "D:\\GitHub\\Books\\Books\\Books.iOS\\Books.iOS.csproj",
       "projectName": "Books.iOS",
-      "projectPath": "C:\\Users\\tasni\\git\\Books\\Books\\Books.iOS\\Books.iOS.csproj",
-      "packagesPath": "C:\\Users\\tasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tasni\\git\\Books\\Books\\Books.iOS\\obj\\",
+      "projectPath": "D:\\GitHub\\Books\\Books\\Books.iOS\\Books.iOS.csproj",
+      "packagesPath": "C:\\Users\\rahal\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Books\\Books\\Books.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\tasni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rahal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj": {
-              "projectPath": "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj"
+            "D:\\GitHub\\Books\\Books\\Books\\Books.csproj": {
+              "projectPath": "D:\\GitHub\\Books\\Books\\Books\\Books.csproj"
             }
           }
         }

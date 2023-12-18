@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj": {}
+    "D:\\GitHub\\Books\\Books\\Books\\Books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj": {
+    "D:\\GitHub\\Books\\Books\\Books\\Books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj",
+        "projectUniqueName": "D:\\GitHub\\Books\\Books\\Books\\Books.csproj",
         "projectName": "Books",
-        "projectPath": "C:\\Users\\tasni\\git\\Books\\Books\\Books\\Books.csproj",
-        "packagesPath": "C:\\Users\\tasni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tasni\\git\\Books\\Books\\Books\\obj\\",
+        "projectPath": "D:\\GitHub\\Books\\Books\\Books\\Books.csproj",
+        "packagesPath": "C:\\Users\\rahal\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Books\\Books\\Books\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tasni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rahal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
